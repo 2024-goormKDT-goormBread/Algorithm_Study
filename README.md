@@ -49,3 +49,8 @@ ex) 신현호 N주차 풀이 업로드
 ![image](https://github.com/SWARVY/SWARVY/assets/53262430/606b7a32-aeaa-4508-b940-398dd7097f75)
 
 File changed 를 클릭한 후 해당 문제에 대한 리뷰를 진행합니다.
+
+![image](https://github.com/2024-goormKDT-goormBread/Algorithm_Study/assets/53262430/8f7aac3f-f60e-4c89-9d26-072574813947)
+
++ 버튼을 눌러 해당 부분에 대한 리뷰를 진행할 수 있습니다.
+
