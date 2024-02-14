@@ -30,3 +30,4 @@ for _ in range(n):
 			print(queue[-1])
 		else:
 			print('-1')
+			
