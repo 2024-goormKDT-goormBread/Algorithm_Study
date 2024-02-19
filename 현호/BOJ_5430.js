@@ -1,3 +1,8 @@
+// 5430 : AC
+// 문제 요약
+// 커맨드에 따른 연산 결과를 반환하기
+// R: 원소들을 뒤집는다, D: 가장 첫 번째 원소를 삭제한다
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
