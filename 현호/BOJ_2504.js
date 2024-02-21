@@ -1,3 +1,9 @@
+// 2504 괄호의 값
+// 주어진 괄효열에 따라 값을 계산한다
+// (x) = 2 * x , [x] = 3 * x로 계산한다
+// 올바른 괄효열 x와 y가 결합된 xy는 x + y로 계산한다
+// ex) ()[[]] = 2 + (3 * 3) = 11
+
 const readline = require("readline");
 const rl = readline.createInterface({
   input: process.stdin,
