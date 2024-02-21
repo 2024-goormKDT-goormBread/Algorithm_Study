@@ -61,13 +61,14 @@ const solve = () => {
     }
   }
 
+  // stack의 합을 구함
   return stack.reduce((acc, curr) => acc + curr);
 };
 
 const checkPossible = (strArr) => {
   const stack = [];
 
-  for (let i = 0; i < strArr.length - 1; i += 1) {
+  for (let i = 0; i < strArr.length; i += 1) {
     const top = stack[stack.length - 1];
     const curr = strArr[i];
 
