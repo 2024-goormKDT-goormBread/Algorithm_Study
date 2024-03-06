@@ -13,13 +13,14 @@ input = sys.stdin.readline
 N = int(input())
 lines = list(list(map(int, input().split())) for _ in range(N)) # 라인을 담는 배열 만든 후 오름차순으로 정렬
 lines.sort()
-start, end = lines[0][0], lines[0][1] # 처음 x, y값 저장 
+# start, end = lines[0][0], lines[0][1] # 처음 x, y값 저장 
+start, end = lines[0] # 리팩토링
 res = 0
 
 for line in range(1, N): # 1번째 인덱스부터 시작
   now_start, now_end = lines[line] # 현재 x, y값 저장
   
-  if now_start < end: # 현재 x 값이 end값보다 작을경우 end값을 비교해 새로 갱신
+  if now_start <= end: # 현재 x 값이 end값보다 작을경우 end값을 비교해 새로 갱신 # <= 변경
     end = max(now_end, end)
   
   else:
