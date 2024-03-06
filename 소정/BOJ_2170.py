@@ -4,7 +4,7 @@
 
 # < 풀이 >
 # 왼쪽의 위치부터 차례대로 선을 그어가기 위해 입력을 받은 후 정렬
-
+#
 # 시작점과 도착점을 각각 start, end라 했을 때 세 가지 경우가 존재할 수 있음
 # 1. 두 선이 겹치고 그 때 꺼낸 도착점이 end보다 뒤에 있는 경우,
 # end를 새로운 도착점으로 갱신
@@ -17,7 +17,6 @@
 import sys
 
 n = int(input())
-
 list = []
 for i in range(n):
 	x, y = map(int, sys.stdin.readline().split())
@@ -26,6 +25,7 @@ for i in range(n):
 list.sort(key = lambda x: (x[0], -x[1]))
 start, end = list[0][0], list[0][1]
 sum = 0
+
 for i in range(1,n):
 	if start <= list[i][0] <= end:
 		if end < list[i][1]:
