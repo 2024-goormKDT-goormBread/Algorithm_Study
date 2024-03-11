@@ -7,26 +7,26 @@ import sys
 
 input = sys.stdin.readline
 N = int(input())
-arr = [tuple(map(int, input().split())) for _ in range(N)]
+arr = []
+for i in range(N):
+    arr.append(tuple(map(int, input().split())))
 arr.sort()
 # 맨 앞에서 부터 탐색 시작
-start, end = arr[0][0] , arr[0][1]
+start = arr[0][0]
+end = arr[0][1]
 result = 0
-for i in range(1,N):
-    print("start:", start)
-    print("end: ", end)
+
+for i in range(1, N):
     # 겹치는 경우
-    if arr[i][0] < end < arr[i][1]:
-        end = max(end,arr[i][1])
-        print("endㄴ: ", end)
+    if arr[i][0] <= end < arr[i][1]:
+        end = max(end, arr[i][1])
 
     # 겹치지 않는 경우
-    elif arr[i][0] > end :
+    elif arr[i][0] > end:
         result += end - start
         start = arr[i][0]
         end = arr[i][1]
-        print("result: ",result)
-
 
 result += end - start
+
 print(result)
