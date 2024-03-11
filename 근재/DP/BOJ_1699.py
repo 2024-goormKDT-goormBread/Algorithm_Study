@@ -13,11 +13,10 @@
 # 출력
 # 주어진 자연수를 제곱 수의 합으로 나타낼 때에 그 제곱수 항의 최소 개수를 출력 한다.
 import math
-import sys
 
-N = int(sys.stdin.readline())
+N = int()
 d = [x for x in range(N + 1)]
-
+print(d)
 for i in range(1, N + 1):
     for j in range(1, int(math.sqrt(i) + 1)): # i = 16 j = 1, 4, 9 ,16 밖에 안 된다.
         if d[i] > (d[i - j * j] + 1): # d[16] > d[16-9]+1
