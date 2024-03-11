@@ -14,7 +14,7 @@
 # 주어진 자연수를 제곱 수의 합으로 나타낼 때에 그 제곱수 항의 최소 개수를 출력 한다.
 import math
 
-N = int()
+N = int(input())
 d = [x for x in range(N + 1)]
 print(d)
 for i in range(1, N + 1):
