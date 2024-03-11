@@ -16,7 +16,7 @@ import math
 
 N = int(input())
 d = [x for x in range(N + 1)]
-print(d)
+
 for i in range(1, N + 1):
     for j in range(1, int(math.sqrt(i) + 1)): # i = 16 j = 1, 4, 9 ,16 밖에 안 된다.
         if d[i] > (d[i - j * j] + 1): # d[16] > d[16-9]+1
