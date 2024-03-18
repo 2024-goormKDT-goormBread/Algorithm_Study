@@ -291,7 +291,6 @@
     <td rowspan='2'>2024.03.04</td>
     <td><a href="https://www.acmicpc.net/problem/2170">선 긋기_2170</a></td>
     <td>G5</td>
-    <td align="center" >Gridy</td>
     <td>      
       <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_2170.py">윤수</a>
       <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EA%B7%BC%EC%9E%AC/Gridy/BOJ_2170.py">근재</a>
