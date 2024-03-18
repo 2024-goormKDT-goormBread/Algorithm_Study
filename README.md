@@ -193,6 +193,142 @@
       <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%86%8C%EC%A0%95/BOJ_7569.py">소정</a>
     </td>
   </tr>
+   <tr>
+    <td rowspan='4'>2024.02.28</td>
+    <td><a href="https://www.acmicpc.net/problem/1700">멀티탭스케줄링_1700</a></td>
+    <td>G1</td>
+    <td rowspan='6' align="center" >Gridy</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EB%B3%B8%ED%97%8C/BOJ_1700.py">본헌</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/11501">주식_11501</a></td>
+    <td>S4</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EB%B3%B8%ED%97%8C/BOJ_11501.py">본헌</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EB%B3%91%EC%A4%80/BOJ_11501.java">병준</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_11501.py">윤수</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%9C%EB%AF%BC/BOJ_11501.py">혜민</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EA%B7%BC%EC%9E%AC/Gridy/BOJ_11501.py">근재</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/11399">ATM_11399</a></td>
+    <td>S4</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%84%ED%98%B8/BOJ_11399.js">현호</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호_1541</a></td>
+    <td>S2/td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%86%8C%EC%A0%95/BOJ_1541.py">소정</a>
+    </td>
+  </tr>
+   <tr>
+    <td rowspan='2'>2024.03.04</td>
+    <td><a href="https://www.acmicpc.net/problem/2170">선 긋기_2170</a></td>
+    <td>G5</td>
+    <td align="center" >Gridy</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_2170.py">윤수</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EA%B7%BC%EC%9E%AC/Gridy/BOJ_2170.py">근재</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%86%8C%EC%A0%95/BOJ_2170.py">소정</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EB%B3%91%EC%A4%80/BOJ_2170.java">병준</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EB%B3%B8%ED%97%8C/BOJ_2170.py">본헌</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/7570">줄 세우기_7570</a></td>
+    <td>G5/td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%9C%EB%AF%BC/BOJ_7570.py">헤민</a>
+    </td>
+  </tr>
+   <tr>
+    <td rowspan='11'>2024.03.06</td>
+    <td><a href="https://www.acmicpc.net/problem/9251">LCS_9251</a></td>
+    <td>G5</td>
+    <td rowspan='11' align="center">DP</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%84%ED%98%B8/BOJ_9251.js">현호</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/1003">피보나치_1003</a></td>
+    <td>S3</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%84%ED%98%B8/BOJ_1003.js">현호</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/11053">가장 긴 증가하는 부분 수열_11503</a></td>
+    <td>S2</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%84%ED%98%B8/BOJ_11053.js">현호</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/11727">2 x n 타일링2_11727</a></td>
+    <td>S3</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%84%ED%98%B8/BOJ_11727.js">현호</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/1915">가장 큰 정사각형_1915</a></td>
+    <td>G4</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EB%B3%91%EC%A4%80/BOJ_1915.java">병준</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/11055">가장 큰 증가하는 부분 수열_11055</a></td>
+    <td>S2</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%86%8C%EC%A0%95/BOJ_11055.py">소정</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_11055.py">윤수</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/1932">가장 큰 증가하는 부분 수열_1932</a></td>
+    <td>S1</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EB%B3%B8%ED%97%8C/BOJ_1932.py">본헌</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_1932.py">윤수</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/1912">연속합_1912</a></td>
+    <td>S2</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_1912.py">윤수</a>
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%ED%98%9C%EB%AF%BC/BOJ_1912.py">혜민</a>
+    </td>
+  </tr>
+   <tr>
+    <td><a href="https://www.acmicpc.net/problem/2748">피보나치 수 2_2748</a></td>
+    <td>B1</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_2748.py">윤수</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/10844">쉬운 계단 수_10844</a></td>
+    <td>S1</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EC%9C%A4%EC%88%98/BOJ_10844.py">윤수</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.acmicpc.net/problem/1699">제곱 수의 합_1699</a></td>
+    <td>S2</td>
+    <td>      
+      <a href="https://github.com/2024-goormKDT-goormBread/Algorithm_Study/blob/main/%EA%B7%BC%EC%9E%AC/DP/BOJ_1699.py">근재</a>
+    </td>
+  </tr>
 </table>
   
 </div>
