@@ -1,6 +1,66 @@
-<div align="center">
-  <h2>☁🍞구름빵팀 알고리즘 스터디</h2>
+![Cloud Bread waifu2x](https://github.com/2024-goormKDT-goormBread/Algorithm_Study/assets/53262430/04e30719-539e-47f8-ba74-e960faad08f2)
+
+<br/><br/>
+
+<div align='center'>
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/tjrmswo"><img src="https://avatars.githubusercontent.com/u/93309061?v=4" width="163px; style="vertical-align:top" alt=""/>
+      <td align="center"><a href="https://github.com/Berygna"><img src="https://avatars.githubusercontent.com/u/18259766?v=4" width="163px; style="vertical-align:top" alt=""/>
+      <td align="center"><a href="https://github.com/SWARVY"><img src="https://avatars.githubusercontent.com/u/53262430?v=4" width="163px; style="vertical-align:top" alt=""/>
+      <td align="center"><a href="https://github.com/Hong-sungshin"><img src="https://avatars.githubusercontent.com/u/90171904?v=4" width="163px; style="vertical-align:top" alt=""/>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/tjrmswo"><b>Player 01<br/>근재</b></a></td>
+      <td align="center"><a href="https://github.com/Berygna"><b>Player 02</br>윤수</b></a></td>
+      <td align="center"><a href="https://github.com/SWARVY"><b>Player 03<br/>현호</b></a></td>
+      <td align="center"><a href="https://github.com/Hong-sungshin"><b>Player 04<br/>혜민</b></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://solved.ac/profile/tjdrufeorhdzja"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdrufeorhdzja" style="vertical-align:top" width="163px;" /></a></td>
+      <td align="center"><a href="https://solved.ac/profile/berygna"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=berygna" style="vertical-align:top" width="163px;" /></a></td>
+      <td align="center"><a href="https://solved.ac/profile/alwaysawake0083"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysawake0083" style="vertical-align:top" width="163px;" /></a></td>
+      <td align="center"><a href="https://solved.ac/profile/haemin1107"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haemin1107" style="vertical-align:top" width="163px;" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/112257466/215278105-06ab07f1-ee1e-48e9-af62-0a02cc6d6039.png" width="15px"> JavaScript</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
+    </tr>
+  </table>
 </div>
+<br/><br/>
+
+<div align='center'>
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/nnevia"><img src="https://avatars.githubusercontent.com/u/129982345?v=4" width="163px; style="vertical-align:top" alt=""/>
+      <td align="center"><a href="https://github.com/ByeongJun-Jang"><img src="https://avatars.githubusercontent.com/u/85213981?v=4" width="163px; style="vertical-align:top" alt=""/>
+      <td align="center"><a href="https://github.com/ulthwjdwkd"><img src="https://avatars.githubusercontent.com/u/159230525?v=4" width="163px; style="vertical-align:top" alt=""/>
+      <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/45807407?v=4" width="163px; style="vertical-align:top" alt=""/>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/nnevia"><b>Player 06<br/>본헌</b></a></td>
+      <td align="center"><a href="https://github.com/ByeongJun-Jang"><b>Player 07</br>병준</b></a></td>
+      <td align="center"><a href="https://github.com/ulthwjdwkd"><b>Player 08<br/>소정</b></a></td>
+      <td align="center"><a href="https://github.com/"><b>Player 09<br/>undefined</b></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://solved.ac/profile/darvin333"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=darvin333" style="vertical-align:top" width="163px;" /></a></td>
+      <td align="center"><a href="https://solved.ac/profile/qudwns8616"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns8616" style="vertical-align:top" width="163px;" /></a></td>
+      <td align="center"><a href="https://solved.ac/profile/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=" style="vertical-align:top" width="163px;" /></a></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210312477-2c0ad52d-dc9a-4d1a-9d4e-b40f5088d1cb.png" width="12px"/>&nbsp;Java</td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/112257466/210311699-6c37f4db-d683-4b2f-8ff0-7d1354d32c61.png" width="15px"/> Python</td>
+      <td align="center">undefined</td>
+    </tr>
+  </table>
+</div>
+<br/><br/>
 
 <div align="center">
   <table>
