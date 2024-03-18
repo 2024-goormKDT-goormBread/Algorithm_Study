@@ -41,10 +41,10 @@
       <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/45807407?v=4" width="163px; style="vertical-align:top" alt=""/>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/nnevia"><b>Player 06<br/>본헌</b></a></td>
-      <td align="center"><a href="https://github.com/ByeongJun-Jang"><b>Player 07</br>병준</b></a></td>
-      <td align="center"><a href="https://github.com/ulthwjdwkd"><b>Player 08<br/>소정</b></a></td>
-      <td align="center"><a href="https://github.com/"><b>Player 09<br/>undefined</b></a></td>
+      <td align="center"><a href="https://github.com/nnevia"><b>Player 05<br/>본헌</b></a></td>
+      <td align="center"><a href="https://github.com/ByeongJun-Jang"><b>Player 06</br>병준</b></a></td>
+      <td align="center"><a href="https://github.com/ulthwjdwkd"><b>Player 07<br/>소정</b></a></td>
+      <td align="center"><a href="https://github.com/"><b>Player 08<br/>undefined</b></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://solved.ac/profile/darvin333"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=darvin333" style="vertical-align:top" width="163px;" /></a></td>
