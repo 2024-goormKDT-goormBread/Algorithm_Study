@@ -33,4 +33,7 @@ for i in range(N):
     for j in range(i+counsel[i][0],N+1): # 상담이 가능한 날짜는 i + 상담을 완료하는데 걸리는 기간
         if dp[j] < dp[i] + counsel[i][1]:
             dp[j] = dp[i] + counsel[i][1]
+            print(dp)
+            print(i)
+            print(i+counsel[i][0])
 print(dp[-1])
