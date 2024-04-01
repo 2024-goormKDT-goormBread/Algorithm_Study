@@ -7,10 +7,12 @@
 # 집합 S와 k가 주어졌을 때, 수를 고르는 모든 방법을 구하는 프로그램
 
 def backTrack(arr, s, index, cnt):
+    # 조건에 맞으면 return
     if cnt == 6:
         print(*arr)
         return
 
+    # 배열의 index 값들 중 하나를 배열에 추가
     for i in range(index, len(s)):
         arr[cnt] = s[i]
         backTrack(arr, s, i + 1, cnt + 1)
