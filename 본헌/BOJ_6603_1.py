@@ -19,7 +19,7 @@
 # 재귀함수로 구현할 시
 def dfs(lotto, idx): 
   if len(lotto) == 6: # 6개가 채워지면 출력
-    print("#")
+    print(*arr)
     return
 
   for i in range(idx, len(arr)): # idx값을 i로 설정 후 lotto값이 6개가 넘으면 이전으로 재귀 후 탐색 안한 값 추가
