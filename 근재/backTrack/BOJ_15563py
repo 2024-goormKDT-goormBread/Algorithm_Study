@@ -1,0 +1,39 @@
+# N개의 자연수 중에서 M개를 고른 수열
+# 한 줄에 하나씩 문제의 조건을 만족하는 수열을 출력한다.
+# 중복되는 수열을 여러 번 출력하면 안되며, 각 수열은 공백으로 구분해서 출력해야 한다.
+# 수열은 사전 순으로 증가하는 순서로 출력
+
+N, M = map(int, input().split())
+arr = sorted(list(map(int, input().split())))
+answer = []
+visited = [False] * N
+
+
+def backtrack():
+    # 재귀를 탈출하는 조건: M개의 수를 다 골랐을 때
+    if len(answer) == M:
+        print(*answer)
+        return
+
+    # 중복된 수열 출력 방지
+    remember = 0
+
+    for i in range(N):
+        # visited[i]가 True이고 기억한 수가 arr[i]와 같지 않다면
+        if not visited[i] and remember != arr[i]:
+            # 방문 처리
+            visited[i] = True
+            answer.append(arr[i])
+            remember = arr[i]
+            # 탐색 진행
+            backtrack()
+
+            # 조건이 맞아서 return 되면?
+            visited[i] = False
+            answer.pop()
+
+
+backtrack()
+
+# 문제 1 중복이 출력된다.
+# 문제 2 9 9와 같은 설정상 같지만 다른 인덱스의 값은 포함이 안 된다.
